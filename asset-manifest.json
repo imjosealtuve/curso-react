@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso-react/static/css/main.8b5b66e1.css",
+    "main.js": "/curso-react/static/js/main.fe973cf5.js",
+    "static/media/city.jpg": "/curso-react/static/media/city.bf733a075352e6e52870.jpg",
+    "static/media/lupa.png": "/curso-react/static/media/lupa.5e6179ff660817f49f43.png",
+    "index.html": "/curso-react/index.html",
+    "main.8b5b66e1.css.map": "/curso-react/static/css/main.8b5b66e1.css.map",
+    "main.fe973cf5.js.map": "/curso-react/static/js/main.fe973cf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b5b66e1.css",
+    "static/js/main.fe973cf5.js"
+  ]
+}
